@@ -8,5 +8,9 @@
 <?php echo '<p>Привет, ARSEN10O!!</p>'; ?> 
 <?php echo '<p>Привет, fixed400!!</p>'; ?>
 <?php echo '<p>Работает</p>'; ?>
+<?php echo '<p>ОК</p>'; ?>
+
+
+
 </body>
 </html>
