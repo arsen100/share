@@ -6,6 +6,7 @@
  <body>
  <?php echo '<p>Привет, мир!</p>'; ?>
 <?php echo '<p>Привет, ARSEN10O!!</p>'; ?> 
+<?php echo '<p>Привет, fixed400!!</p>'; ?>
 
 </body>
 </html>
